@@ -1,0 +1,1 @@
+export const endpoint:string = "http://localhost:8080"

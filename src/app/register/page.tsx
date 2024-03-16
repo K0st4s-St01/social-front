@@ -1,11 +1,11 @@
 import Image from "next/image";
-import LoginForm from "./components/LoginForm";
+import RegisterForm from "../components/RegisterForm";
 
 export default function Home() {
   return (
    <div>
     <div className="background"></div>
-    <LoginForm/>
+    <RegisterForm/>
    </div> 
   );
 }
